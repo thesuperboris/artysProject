@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="1" time="10.671176">
+    <testcase classname="Sample Feature" name="Valid credentials login" time="10.671176">
+        <system-out>
+            <![CDATA[Given a CTSMS user is on the home page "https://mexil.it/chroma_tech_academy/test/site/login".passed
+When the user logs in with valid credentials username "general@teacher.com" and password "123456".passed
+Then user is on the dashboard page..........................................passed
+]]>
+        </system-out>
+    </testcase>
+</testsuite>
